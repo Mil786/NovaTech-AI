@@ -50,3 +50,6 @@ NovaTech-AI/
 ├── README.md
 ├── .gitignore
 └── LICENSE
+
+
+https://mil786.github.io/NovaTech-AI/modern_landing_page/ 
