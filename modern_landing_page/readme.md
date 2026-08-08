@@ -51,5 +51,10 @@ NovaTech-AI/
 ├── .gitignore
 └── LICENSE
 
+## 🔗 Demonstração
+Você pode testar o projeto online clicando no link abaixo:
+👉 https://mil786.github.io/NovaTech-AI/modern_landing_page/ 
 
-https://mil786.github.io/NovaTech-AI/modern_landing_page/ 
+---
+*Projeto desenvolvido para fins de estudo e portfólio.*
+
