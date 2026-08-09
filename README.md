@@ -4,6 +4,13 @@ Landing page moderna e responsiva para uma empresa fictícia de inteligência ar
 
 O projeto foi desenvolvido com foco em praticar e aprimorar conhecimentos de desenvolvimento web utilizando tecnologias fundamentais do Front-End.
 
+## 🔗 Demonstração
+Você pode testar o projeto online clicando no link abaixo:
+👉 https://mil786.github.io/NovaTech-AI/modern_landing_page/ 
+
+---
+*Projeto desenvolvido para fins de estudo e portfólio.*
+
 ## 🚀 Tecnologias
 
 - HTML5
@@ -34,12 +41,6 @@ O projeto foi desenvolvido com foco em praticar e aprimorar conhecimentos de des
 
 O objetivo deste projeto é praticar desenvolvimento Front-End e construir projetos reais para meu portfólio de desenvolvimento web.
 
-## 🔗 Demonstração
-Você pode testar o projeto online clicando no link abaixo:
-👉 https://mil786.github.io/NovaTech-AI/modern_landing_page/ 
-
----
-*Projeto desenvolvido para fins de estudo e portfólio.*
 
 ## 📂 Estrutura
 
